@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index 'mongodb+srv://lucas214377:batata@cluster0.l179lz2.mongodb.net/test'"
+    },
+   
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.0.4"
