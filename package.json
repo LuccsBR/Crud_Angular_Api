@@ -7,7 +7,7 @@
   "main": "index.js",
   "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "node index 'mongodb+srv://lucas214377:batata@cluster0.l179lz2.mongodb.net/test'",
+  "start": "node index.js 'mongodb+srv://lucas214377:batata@cluster0.l179lz2.mongodb.net/test'",
   "dev": "nodemon"
   },
   "author": "",
