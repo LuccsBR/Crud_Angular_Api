@@ -1,20 +1,17 @@
-
-
 {
   "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "node index.js 'mongodb+srv://lucas214377:batata@cluster0.l179lz2.mongodb.net/test'",
-  "dev": "nodemon"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js 'mongodb+srv://lucas214377:batata@cluster0.l179lz2.mongodb.net/test'",
+    "dev": "nodemon"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-  "express": "^4.18.1",
-  "mongoose": "^6.4.6"
+    "express": "^4.18.2",
+    "mongoose": "^6.10.5"
   }
- 
 }
